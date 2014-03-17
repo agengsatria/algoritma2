@@ -3,7 +3,7 @@ algoritma pemprograman 2
 
 Program menghitung sisa FlashDisk vBETA | Klik Kanan Refresh
 ------------------------------------------------------------
-
+Kelas TI 13 G
 
 Nama kelompok kami : Klik Kanan Refresh
 
